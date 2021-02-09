@@ -1,0 +1,10 @@
+.cajaizq{
+    display: flex;
+    flex-direction: column;
+}
+.redessociales{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
